@@ -1,4 +1,4 @@
-// This is example of Interface  Principle which I from Solid principle
+// This is example of Interface Segregation Principle which I from Solid principle
 
 interface RiderInterface {
     void bookRide();
