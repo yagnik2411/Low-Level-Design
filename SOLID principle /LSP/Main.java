@@ -1,4 +1,4 @@
-// This is example of Liskov Substitution Principle which S from Solid principle
+// This is example of Liskov Substitution Principle which L from Solid principle
 class Notification {
     public void sendNotification(){
         System.out.println("Email Notification");
